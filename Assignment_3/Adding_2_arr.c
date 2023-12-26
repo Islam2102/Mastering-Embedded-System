@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : TEST.c
+ Name        : Add two Arrays.c
  Author      : ISLAM_ATEF
  Version     :
  Copyright   : Your copyright notice
