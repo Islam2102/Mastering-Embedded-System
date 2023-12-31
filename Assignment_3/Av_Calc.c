@@ -4,7 +4,7 @@
  Author      : ISLAM_ATEF
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : Av_Calc in C, Ansi-style
  ============================================================================
  */
 
